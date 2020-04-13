@@ -1,0 +1,10 @@
+"Id (N)","Price (N)","ProductCategory (S)","Title (S)","BicycleType (S)","Brand (S)","Color (L)","Description (S)","Authors (L)","Dimensions (S)","ISBN (S)","InPublication (BOOL)","PageCount (N)","Item (M)"
+"101","4000","Book","Book 101 Title",,,,,"[  { ""S"" : ""Author1"" }]","8.5 x 11.0 x 0.5","111-1DDWEW111111111","true","500","{  ""Authors"" : { ""S"" : ""Stephen Hawking"" },  ""BicycleType"" : { ""S"" : ""Space"" },  ""Brand"" : { ""S"" : ""Ladybird"" },  ""Dimensions"" : { ""S"" : ""8.5 x 11.0 x 1.5"" },  ""Id"" : { ""N"" : ""1001"" },  ""InPublication"" : { ""BOOL"" : true },  ""ISBN"" : { ""S"" : ""xxx-3333333222"" },  ""PageCount"" : { ""N"" : ""100"" },  ""Price"" : { ""S"" : ""100"" },  ""ProductCategory"" : { ""S"" : ""Science Book"" },  ""TableName"" : { ""S"" : ""ProductCatalog"" },  ""Title"" : { ""S"" : ""Book xxx Title"" }}"
+"103","2000","Book","Book 103 Title","Road","Hercules",,,"[  { ""S"" : ""Author0"" },  { ""S"" : ""Author1"" },  { ""S"" : ""Author2"" },  { ""S"" : ""Author2"" },  { ""S"" : ""Author4"" }]","8.5 x 11.0 x 1.5","333-3333333333","false","600",
+"201","100","Bicycle","18-Bike-201","Road","Mountain A","[  { ""S"" : ""Red"" },  { ""S"" : ""Black"" }]","201 Description",,,,,,
+"202","200","Bicycle","21-Bike-202","Road","Brand-Company A","[  { ""S"" : ""Green"" },  { ""S"" : ""Black"" }]","202 Description",,,,,,
+"203","300","Bicycle","19-Bike-203","Road","Brand-Company B","[  { ""S"" : ""Red"" },  { ""S"" : ""Green"" },  { ""S"" : ""Black"" }]","203 Description",,,,,,
+"204","400","Bicycle","18-Bike-204","Mountain","Brand-Company B","[  { ""S"" : ""Red"" }]","204 Description",,,,,,
+"205","500","Bicycle","18-Bike-204","Hybrid","Brand-Company C","[  { ""S"" : ""Red"" },  { ""S"" : ""Black"" }]","205 Description",,,,,,
+"1000","100","Cycle","Book 333 Title","Road","Ladybird",,,"Author0","8.5 x 11.0 x 1.5","333-3333333222","false","600",
+"1001","100","Science Book","Book xxx Title","Space","Ladybird",,,"Stephen Hawking","8.5 x 11.0 x 1.5","xxx-3333333222","true","100",

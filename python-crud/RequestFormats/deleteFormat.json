@@ -1,0 +1,9 @@
+{
+  "operation": "delete",
+  "tableName": "ProductCatalog",
+  "payload": {
+    "Key": {
+      "Id": 102
+    }
+  }
+}

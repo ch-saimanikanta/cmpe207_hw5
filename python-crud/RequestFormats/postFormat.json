@@ -1,0 +1,19 @@
+{
+  "operation": "create",
+  "tableName": "ProductCatalog",
+  "payload": {
+    "Item": {
+      "Title": "Book 333 Title",
+      "InPublication": false,
+      "PageCount": 600,
+      "Dimensions": "8.5 x 11.0 x 1.5",
+      "ISBN": "333-3333333222",
+      "Authors": "Author0",
+      "Price": "100",
+      "Brand": "Ladybird",
+      "ProductCategory": "Cycle",
+      "Id": 1000,
+      "BicycleType": "Road"
+    }
+  }
+}

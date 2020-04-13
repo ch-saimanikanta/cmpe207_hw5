@@ -1,0 +1,15 @@
+{
+  "operation": "update",
+  "tableName": "ProductCatalog",
+  "payload": {
+    "Key": {
+      "Id": 101
+    },
+    "AttributeUpdates": {
+      "Price": {
+        "Value": 400,
+        "Action": "PUT"
+      }
+    }
+  }
+}
